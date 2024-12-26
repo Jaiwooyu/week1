@@ -1,0 +1,18 @@
+## **공통과제 I : 탭 구조를 활용한 안드로이드 앱 제작**
+
+- 목적: 서로 함께 공통의 과제를 함으로써, 개발에 빠르게 익숙해지기
+- 결과물: 다음과 같은 세 개의 탭이 존재하는 안드로이드 앱
+    
+    
+    | 탭1 | 나의 연락처 구축.
+    예시) 휴대폰의 연락처 데이터를 활용하거나, JSON 형식을 이용해서 임의의 연락처 데이터를 구축.
+    추천: [ListView](https://developer.android.com/reference/android/widget/ListView.html)나 [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview) 등을 이용해서 데이터 보여 주기 |
+    | --- | --- |
+    | 탭2 | 나만의 이미지 갤러리 구축.
+    대략 20개 이상의 이미지 필요. |
+    | 탭3 | 자유 주제 |
+- 첫날 해야 하는 일: [Android Studio](https://developer.android.com/studio) 설치하기 / Hello World 띄워 보기
+- 과제 중 추가로 해야 할 일: 협업을 위한 도구 사용
+    - Git에 대한 이해도 높이기
+    - [github.com](http://github.com/)에서 public 프로젝트로 운영하는 것을 권고
+    (실제로 현업에서 많이 사용되기 때문에 그러함)
